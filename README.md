@@ -56,4 +56,9 @@ The dataset contains patient records with multiple clinical features, including:
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/PCOS-Prediction.git](https://github.com/your-username/PCOS-Prediction.git)
+   git clone [(https://github.com/roshni132/PCOS_prediction.git)](https://github.com/roshni132/PCOS_prediction.git)
+
+   cd PCOS-Prediction
+   pip install pandas numpy scikit-learn xgboost imbalanced-learn matplotlib seaborn
+   jupyter notebook CurrentPCOS.ipynb
+  
